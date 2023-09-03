@@ -22,6 +22,6 @@ public class Domicilio implements Serializable {
     private long id;
     private String calle;
     private int numero;
- 
+
 
 }
